@@ -9,4 +9,4 @@ These might be:
 * feaure requests
 * data requests
 
-Just [CLICK HERE](https://github.com/writingatlas/change-requests/issues) to log one!
+Just [CLICK HERE](https://github.com/writingatlas/change-requests/issues) to log one.
